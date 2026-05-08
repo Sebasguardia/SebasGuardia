@@ -1,3 +1,4 @@
+````md id="kwq8wj"
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SEBAS+DEV;Full+Stack+Developer;PHP+%7C+Python+%7C+FastAPI+%7C+React;Clean+UI+%2B+Powerful+APIs;Building+things+that+look+good+and+work+better" alt="Typing SVG" />
@@ -28,7 +29,7 @@ const sebas = {
   focus: "Modern web apps, APIs, and clean interfaces",
   vibe: "Simple, elegant, and powerful",
 }
-```
+````
 
 <table>
   <tr>
@@ -40,8 +41,8 @@ const sebas = {
 * Me gusta trabajar backend y frontend.
 * Prioridad: claridad, velocidad y buen diseño.
 
-    </td>
-    <td width="50%" valign="top">
+   </td>
+   <td width="50%" valign="top">
 
 ### En qué me enfoco
 
@@ -50,7 +51,7 @@ const sebas = {
 * Sistemas con buena estructura
 * Experiencias visuales agradables
 
-    </td>
+   </td>
   </tr>
 
 </table>
@@ -71,12 +72,13 @@ const sebas = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sebasguardia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasguardia&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&radius=16" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sebasguardia&theme=tokyo-night&hide_border=true&radius=16" />
 
 </div>
 
@@ -92,6 +94,7 @@ const sebas = {
     <th align="left">Demo</th>
     <th align="left">Repo</th>
   </tr>
+
   <tr>
     <td>✨ Proyecto 1</td>
     <td>Sistema moderno con dashboard y panel de control.</td>
@@ -99,6 +102,7 @@ const sebas = {
     <td><a href="LINK_DEMO_1">Ver</a></td>
     <td><a href="LINK_REPO_1">GitHub</a></td>
   </tr>
+
   <tr>
     <td>🔥 Proyecto 2</td>
     <td>API escalable con buena estructura y lógica limpia.</td>
@@ -106,6 +110,7 @@ const sebas = {
     <td><a href="LINK_DEMO_2">Ver</a></td>
     <td><a href="LINK_REPO_2">GitHub</a></td>
   </tr>
+
   <tr>
     <td>⚡ Proyecto 3</td>
     <td>Aplicación práctica enfocada en UI y rendimiento.</td>
@@ -121,7 +126,7 @@ const sebas = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Sebasguardia/Sebasguardia/output/snake.svg" alt="snake animation" />
 
 </div>
 
@@ -131,12 +136,14 @@ const sebas = {
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/Sebasguardia">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/TU_PERFIL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:TU_CORREO@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -147,6 +154,7 @@ const sebas = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Sebasguardia&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
 
 </div>
+```
