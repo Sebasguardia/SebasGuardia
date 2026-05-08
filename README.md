@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=34&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Hola+👋;Soy+Sebas;Full+Stack+Developer;PHP+%7C+Python+%7C+FastAPI+%7C+React" />
@@ -96,4 +96,4 @@ API escalable y moderna.
 </a>
 
 </div>
-```
+
