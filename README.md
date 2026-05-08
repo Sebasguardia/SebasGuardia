@@ -1,4 +1,4 @@
-````md id="kwq8wj"
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SEBAS+DEV;Full+Stack+Developer;PHP+%7C+Python+%7C+FastAPI+%7C+React;Clean+UI+%2B+Powerful+APIs;Building+things+that+look+good+and+work+better" alt="Typing SVG" />
@@ -18,18 +18,17 @@
 
 </div>
 
----
 
 ## ✨ About Me
 
-```ts
+
 const sebas = {
   role: "Full Stack Developer",
   stack: ["PHP", "Python", "FastAPI", "React", "TypeScript"],
   focus: "Modern web apps, APIs, and clean interfaces",
   vibe: "Simple, elegant, and powerful",
 }
-````
+
 
 <table>
   <tr>
