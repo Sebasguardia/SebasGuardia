@@ -2,191 +2,127 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+%26+Frontend+Developer;Node.js+%7C+TypeScript+%7C+React;Building+Clean+and+Modern+Web+Apps;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+%26+Frontend;PHP+%7C+Python+%7C+FastAPI+%7C+Node.js;React+%7C+TypeScript+%7C+Tailwind;Clean+UI+%2B+Powerful+APIs" alt="Typing SVG" />
 
 <br/>
-<br/>
 
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-0ea5e9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend-Node.js-22c55e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Frontend-React-38bdf8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database-PostgreSQL-f59e0b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI-Modern%20%26%20Clean-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-APIs%20%26%20Logic-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Code-Open%20to%20Learn-F59E0B?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## ✨ About Me
 
 ```ts
 const sebas = {
-  location: "Lima, Peru",
   role: "Full Stack Developer",
-  code: ["TypeScript", "JavaScript", "SQL"],
-  technologies: {
-    frontend: ["React", "Next.js", "TailwindCSS"],
-    backend: ["Node.js", "Express", "NestJS"],
-    databases: ["PostgreSQL", "MySQL", "MongoDB"],
-    tools: ["Docker", "Git", "GitHub", "Postman"],
-  },
-  currentFocus: "Building scalable and modern web applications",
+  stack: ["PHP", "Python", "FastAPI", "TypeScript", "React"],
+  focus: "Modern web apps, APIs, and clean interfaces",
+  style: "Simple, useful, and visually polished",
 }
 ```
 
-✨ Apasionado por crear aplicaciones modernas, escalables y con interfaces limpias.
+<div align="center">
 
-💡 Me gusta trabajar tanto en frontend como backend, creando experiencias completas.
+<table>
+  <tr>
+    <td align="center"><b>🎯 Focus</b><br/>Interfaces modernas y APIs sólidas</td>
+    <td align="center"><b>⚡ Style</b><br/>Minimalista, limpio y piola</td>
+    <td align="center"><b>🚀 Goal</b><br/>Proyectos reales con buena presentación</td>
+  </tr>
+</table>
 
-🔥 Siempre aprendiendo nuevas tecnologías y mejorando mis proyectos.
+</div>
 
 ---
 
-# ⚡ Tech Stack
+## 🧩 Tech Stack
 
 <div align="center">
 
-## 🎨 Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite" />
 
-## 🛠 Backend
+### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,fastapi,nestjs" />
 
-## 🗄 Databases
+### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
 
-## ⚙ Tools
+### Tools
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,figma" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=tokyo-night&hide_border=true&radius=16" width="95%" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
 
 </div>
 
 ---
 
-# 🧠 Currently Working On
-
-🚀 Sistemas web modernos y escalables
-
-📦 APIs REST con arquitectura limpia
-
-⚡ Dashboards administrativos modernos
-
-🎯 Optimización de experiencia de usuario
-
-🔒 Sistemas con autenticación y roles
-
----
-
-# 🌌 Featured Projects
+## 📌 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/TU_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=TU_REPO_1&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
+| Proyecto       | Descripción                        | Link                                                              |
+| -------------- | ---------------------------------- | ----------------------------------------------------------------- |
+| **Proyecto 1** | Sistema web moderno y funcional    | [Ver repositorio](https://github.com/TU_USUARIO/TU_REPOSITORIO_1) |
+| **Proyecto 2** | API o dashboard con buena interfaz | [Ver repositorio](https://github.com/TU_USUARIO/TU_REPOSITORIO_2) |
+| **Proyecto 3** | App de práctica o portafolio       | [Ver repositorio](https://github.com/TU_USUARIO/TU_REPOSITORIO_3) |
 
-<a href="https://github.com/TU_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=TU_REPO_2&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
+</div>
+
+> Reemplaza los nombres y enlaces con tus proyectos reales.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&radius=16" width="95%" />
 
 </div>
 
 ---
 
-# 🏆 Achievements
+## 🌐 Links
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/TU_USERNAME">
+<a href="https://github.com/TU_USUARIO">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/TU_PERFIL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:TU_CORREO@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/snake.svg" alt="snake animation" />
 
 </div>
 
----
-
 <div align="center">
 
-## ✨ "Code. Build. Improve. Repeat." ✨
-
-<img src="https://komarev.com/ghpvc/?username=TU_USERNAME&label=Profile%20Views&color=38bdf8&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
 
 </div>
-
----
-
-# 📌 Cómo usar este README
-
-1. Crea un repositorio con el mismo nombre de tu usuario de GitHub.
-2. Ejemplo:
-
-```bash
-sebasdev/sebasdev
-```
-
-3. Dentro del repositorio crea un archivo:
-
-```bash
-README.md
-```
-
-4. Copia todo este contenido.
-
-5. Reemplaza:
-
-* `TU_USERNAME`
-* `TU_REPO_1`
-* `TU_REPO_2`
-* `TU_CORREO`
-
-6. Haz commit y automáticamente aparecerá en tu perfil.
