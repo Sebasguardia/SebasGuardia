@@ -20,9 +20,7 @@
 ### Sebastián Guardia
 
 Desarrollador Full Stack enfocado en crear aplicaciones web modernas, APIs escalables e interfaces limpias.
-
-Estudiante de Ingeniería de Sistemas apasionado por el desarrollo backend y la experiencia visual frontend.
-
+Estudiante de Ingeniería de Software con IA apasionado por el desarrollo backend y la experiencia visual frontend.
 Actualmente enfocado en construir productos digitales elegantes, rápidos y funcionales.
 
 ---
