@@ -1,29 +1,29 @@
 
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=34&pause=1000&color=8B5CF6&vCenter=true&width=1000&lines=Hi+there;Welcome+to+my+GitHub+Profile;SebasGuardia;Full+Stack+Developer;Modern+UI+and+Scalable+Backend" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=34&pause=1000&color=8B5CF6&vCenter=true&width=1000&lines=Hola+Bienvenido+a+mi+perfil;SebasGuardia;Full+Stack+Developer;Interfaces+Modernas+y+Backend+Escalable" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SebasGuardia&fontSize=56&fontColor=ffffff&color=0:7c3aed,100:06b6d4&animation=fadeIn" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend%20Developer-06B6D4?style=for-the-badge&logo=serverless&logoColor=white" />
-<img src="https://img.shields.io/badge/UI%20Focused-0EA5E9?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-8B5CF6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend%20Developer-06B6D4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%20Focused-0EA5E9?style=for-the-badge&logoColor=white" />
 
 </div>
 
 ---
 
-# About Me
+# Sobre mí
 
 ### Sebastián Guardia
 
-Full Stack Developer focused on building modern web applications, scalable APIs and polished interfaces.
+Desarrollador Full Stack enfocado en crear aplicaciones web modernas, APIs escalables e interfaces limpias.
 
-Systems Engineering student passionate about backend architecture and clean frontend experiences.
+Estudiante de Ingeniería de Sistemas apasionado por el desarrollo backend y la experiencia visual frontend.
 
-Currently focused on creating elegant, fast and functional digital products.
+Actualmente enfocado en construir productos digitales elegantes, rápidos y funcionales.
 
 ---
 
@@ -61,66 +61,35 @@ Currently focused on creating elegant, fast and functional digital products.
 
 ---
 
-# GitHub Analytics
+# Actividad de GitHub
 
-<p align="left">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SebasGuardia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SebasGuardia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true&bg_color=0D1117" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=SebasGuardia&theme=tokyonight&hide_border=true&border_radius=18" />
+<img width="49%" src="https://streak-stats.demolab.com?user=SebasGuardia&theme=tokyonight&hide_border=true&border_radius=18&background=0D1117" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasGuardia&layout=compact&theme=tokyonight&hide_border=true&border_radius=18" />
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=SebasGuardia&theme=tokyo-night&hide_border=true&radius=16&bg_color=0D1117" />
 
-</p>
-
----
-
-# Featured Projects
-
-<table>
-<tr>
-<th align="left">Project</th>
-<th align="left">Stack</th>
-<th align="left">Repository</th>
-</tr>
-
-<tr>
-<td>Dashboard System</td>
-<td>React · FastAPI · MySQL</td>
-<td><a href="LINK_REPO_1">Open</a></td>
-</tr>
-
-<tr>
-<td>REST API</td>
-<td>PHP · PostgreSQL · Node.js</td>
-<td><a href="LINK_REPO_2">Open</a></td>
-</tr>
-
-<tr>
-<td>Portfolio Platform</td>
-<td>TypeScript · Tailwind · React</td>
-<td><a href="LINK_REPO_3">Open</a></td>
-</tr>
-
-</table>
+</div>
 
 ---
 
 # Contribution Snake
 
-<p align="left">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/SebasGuardia/SebasGuardia/output/snake.svg" alt="snake animation" />
 
-</p>
+</div>
 
 ---
 
-# Connect
+# Conecta conmigo
 
-<p align="left">
+<div align="center">
 
 <a href="https://github.com/SebasGuardia">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -135,16 +104,16 @@ Currently focused on creating elegant, fast and functional digital products.
 </a>
 
 <a href="https://sebastian-guardia-t.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="left">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SebasGuardia&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=SebasGuardia&label=Visitas%20al%20perfil&color=8B5CF6&style=for-the-badge" />
 
-</p>
+</div>
 
