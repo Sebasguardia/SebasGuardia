@@ -1,84 +1,89 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SEBAS+DEV;Full+Stack+Developer;PHP+%7C+Python+%7C+FastAPI+%7C+React;Modern+UI+%2B+Scalable+Backend;Building+clean+digital+experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=34&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+Profile;SebasGuardia;Full+Stack+Developer;Modern+UI+%2B+Scalable+Backend" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SEBAS%20DEV&fontSize=58&fontColor=ffffff&color=0:7c3aed,100:06b6d4&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=SebasGuardia&fontSize=58&fontColor=ffffff&color=0:7c3aed,100:06b6d4&animation=fadeIn" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Full%20Stack-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UI%20Designer-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/API%20Developer-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend%20Developer-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI%20Focused-0EA5E9?style=for-the-badge" />
 
 </div>
 
+---
 
-# ✨ About
+# 👋 Hello World
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
+### I'm Sebastián Guardia
 
-### 🚀 Development
+💻 Full Stack Developer passionate about building modern web applications.
 
-Modern web applications with  
-clean structure and scalable code.
+🎓 Systems Engineering student focused on backend architecture and polished interfaces.
 
-</td>
+🚀 I work mainly with scalable APIs, dashboards and modern frontend experiences.
 
-<td width="33%" align="center">
-
-### ⚡ Focus
-
-Frontend interfaces, backend APIs  
-and polished user experience.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎯 Goal
-
-Build projects that feel modern,  
-fast and visually clean.
-
-</td>
-</tr>
-</table>
+✨ My goal is to create clean, fast and visually elegant digital products.
 
 </div>
 
+---
 
-
-# ⚒️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,php,python,fastapi,nodejs,mysql,postgres,docker,git,github" />
-
-</div>
-
-
-# 📊 GitHub Dashboard
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebasGuardia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasGuardia&layout=compact&theme=tokyonight&hide_border=true&border_radius=18" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SebasGuardia&theme=tokyo-night&hide_border=true&radius=16" />
+<img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi" />
+<img src="https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VSCode-111827?style=for-the-badge&logo=visualstudiocode" />
 
 </div>
 
+---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SebasGuardia&theme=tokyonight&hide_border=true&border_radius=18" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SebasGuardia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasGuardia&layout=compact&theme=tokyonight&hide_border=true&border_radius=18" />
+
+</div>
+
+---
 
 # 🚀 Featured Projects
 
@@ -113,7 +118,7 @@ fast and visually clean.
 
 </div>
 
-
+---
 
 # 🐍 Contribution Snake
 
@@ -125,7 +130,7 @@ fast and visually clean.
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -133,17 +138,21 @@ fast and visually clean.
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/TU_PERFIL">
+<a href="https://www.linkedin.com/in/sebastian-guardia-64a865379">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:TUCORREO@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:sebastianguardiaticlla@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://sebastian-guardia-t.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
 
-
+---
 
 <div align="center">
 
